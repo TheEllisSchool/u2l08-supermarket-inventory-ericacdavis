@@ -25,6 +25,6 @@ public class Flowers extends Item{
 		public String getVariety() {
 			return variety;
 		}
-	}
+}
 
-
+//hello
